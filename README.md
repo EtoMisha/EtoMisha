@@ -2,9 +2,9 @@
 
 Студент Школы 21 (https://21-school.ru/)
 
-Пишу на Java, C/C++
+Сейчас пишу на Java + Spring, а раньше C/C++
 
-Ищу работу :)
+Открыт к предложениям по работе / стажировке :)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
