@@ -1,6 +1,6 @@
 ### Hi there 👋 я Миша
 
-Учусь в «[Школе 21](https://21-school.ru/)»
+Выпускник «[Ecole 42](https://42.fr/en/homepage/)»
 
 Сейчас пишу на Java + Spring, а раньше C/C++
 
